@@ -2,13 +2,7 @@ Diszkrét modellek alkalmazásai 2. gyakorlat
 
 
 
-1. Egy X halmazon értelmezett binér relációt formálisan X-beli rendezett párok
-halmazaként szoktunk definiálni. Írjunk eljárásokat, melyek egy ilyen formában
-adott relációról megmondják, hogy az reflexív, szimmetrikus, antiszimmetrikus
-ill. tranzitív-e (négy külön eljárást). A bemenetük az X halmaz és a reláció.
-Tehát pl.
-Is_Reflexive({1, 2, 3, 4}, [[1, 1], [2, 2], [3, 3], [4, 4]]) válasza legyen true,
-Is_Transitive({1, 2, 3, 4}, [[1, 2], [2, 3], [1, 4], [2, 2]]) pedig false.
+1. (ld. köv. feladatsor)
 
 2. Rajzolja ki a következõ irányítatlan gráfot: 1: [0,1,2,5], 5: [2,3], 2: [3,0]
 
