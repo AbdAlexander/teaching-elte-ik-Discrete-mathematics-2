@@ -13,9 +13,11 @@ Ha a függvény argumentuma nem megfelelõ, a függvény dobjon ValueError kivételt.
 
 4. Számolja meg, hány prím van a [0;n] intervallumban.
 
-5. Írjon programot, amely kiírja az összes barátságos számpárt 100 alatt.
+5. Olvasson be a billentyûzetrõl egy x egész számot. Írjon programot, amely kiírja
+az összes barátságos szám(párt) x alatt. Futtassa programját x = 100 értékkel.
 
-6. Írjon programot, amely kiírja az összes tökéletes számot 10000 alatt.
+6. Olvasson be a billentyûzetrõl egy x egész számot. Írjon programot, amely kiírja
+az összes tökéletes számot x alatt. Futtassa programját x = 10000 értékkel.
 
 7. Írjon f függvényt iteratív és rekurzív megoldással, amely visszatér a paraméter
 számjegyeinek köbösszegével (a számjegyek köbeinek összegével). Írja ki a képernyõre
