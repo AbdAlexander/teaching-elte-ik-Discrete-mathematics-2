@@ -37,11 +37,3 @@ közös koordináta-rendszerben a p, q, lnko(p, q) polinomokat.
 
 PlotGcd(x^4 - 5*x^2 + 4, x^4 - 2*x^3 - 2*x^2 + 8*x - 8)
 
-12. Írjon függvényt, amely paraméterként fogad egy num egész számot, egy mult
-és egy deg természetes számot. Írjon függvényt, amely előállít egy poly nevű,
-deg fokszámú, egész együtthatós polinomot, amelynek num legalább mult-szoros gyöke,
-a többi gyök legyen véletlenszerűen kiválasztva a [-100; 100] intervallumból.
-
-Állítsa elő azt a polinomot, amelynek ugyanazok a gyökei mint poly-nak, kivéve
-num-ot, num nem lehet gyöke. Ábrázolja a két polinomot közös koordináta-rendszerben.
-
