@@ -10,7 +10,7 @@ print("hello world")
 x = 10
 print(x)
 
-# egy változó típusa meg is változhat (gyengén típusos nyelv)
+# egy változó nevét újrahasználhatjuk
 x = "rgwrgw"
 print(x)
 

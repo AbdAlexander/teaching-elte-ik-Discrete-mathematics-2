@@ -11,7 +11,7 @@ print(x)
 x += 20
 print(x)
 
-# egy változó típusa meg is változhat (gyengén típusos nyelv)
+# egy változó nevét újrahasználhatjuk
 x = "string"
 print(x)
 
