@@ -2,7 +2,7 @@
 
 ## gyakorlat
 
-hétfõnként, 17:00-18:30, MS Teams/Diszkrét modellek alkalmazásai (BSc, 18, F)/gyakcsop-1
+hétfõnként, 17:00-18:30, MS Teams/DiModAlk gyakcsop-1 csapat (team)
 
 ## konzultáció
 
