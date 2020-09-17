@@ -31,12 +31,4 @@ Alakítsuk szorzattá a `a^3*b+b^3*c+c^3*a-a*b^3-b*c^3-c*a^3` kifejezést.
 Számítsuk ki a `sum(1/n^4) n=1..infinity` összeget `20 `tizedesjegyre
 kerekítve.
 
-## 8. feladat
-
-Írassuk ki az első `100` db köbszámot.
-
-## 9. feladat
-
-Írassuk ki az első `100` db természetes szám közül a `3`-mal oszthatóak köbét.
-
 
