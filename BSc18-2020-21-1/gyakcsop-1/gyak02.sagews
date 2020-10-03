@@ -97,7 +97,7 @@ Is_Reflexive({1, 2, 3, 4}, [(1, 1), (3, 2), (3, 3), (4, 4), (4, 3)]) # False
 ︡ba3ba9f1-b0eb-4948-98ae-96268d2037ec︡{"stdout":"True\n"}︡{"done":true}
 ︠dcab7dd4-bfa7-425f-b65d-4937f3531b76︠
 
-# ez helyes:
+# Mészáros Gábor megoldása:
 
 def Is_Reflexive(X, R):
     for i in X:
@@ -124,7 +124,7 @@ Is_Transitive({1, 2, 3}, [(1,1), (1,2), (1,3), (2,1), (2,2), (2,3), (3,1), (3,2)
 ︡62cce8dc-31ea-4595-a738-4d324b8815ed︡{"stdout":"False\n"}︡{"stdout":"True\n"}︡{"done":true}
 ︠a9821296-9d14-4ba6-be8f-12d2adf265f2s︠
 
-# ez is helyes megoldás:
+# Tran Bach Khoa megoldása:
 
 def Is_Transitive(R):
     for a in R:
