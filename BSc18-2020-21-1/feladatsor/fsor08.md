@@ -12,14 +12,14 @@
 
 ## 3. feladat
 
-TODO
+Írjon `get_possible_secrets(primenum)` szignatúrával függvényt, amely egy Shamir titokmegosztáskor használt prímszámot kap paraméterként, és visszatér a lehetséges titok listájával.
 
 ## 4. feladat
 
-TODO
+Írjon `SSS_secret_parts(required_num_of_people, num_of_people, secret)` szignatúrával függvényt, amely a `secret` titokból `num_of_people` db titokrészletet készít, ahol a minimum szükséges részletek száma `required_num_of_people`. A függvény véletlenszeren válasszon ki egy alkalmas polinomot és prímszámot. A prímszám legyen kellően távol a titoktól (a függvény adja eredményül azt is, melyik prímszám lett kiválasztva).
 
 ## 5. feladat
 
-TODO
+A `34fg__#Gfb34226fdsWWQl36lII234i<!%fGZjsdJFEBD77467effO+36{}__IOQsFF&363&ZzOO053` jelszóhoz készítsen titokrészleteket, amelyet `10` ember között osztunk szét úgy, hogy legalább `7` ember szükséges legyen az eredeti jelszó előállításához. Adott `7` titokrészletből állítsa elő az eredeti jelszót.
 
 
