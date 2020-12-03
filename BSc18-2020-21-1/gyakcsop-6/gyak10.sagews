@@ -75,6 +75,8 @@ SSS_compute_secret(2017, [(1, 1900), (2, 1909), (3, 393), (4, 1637), (5, 54), (6
 ︡c91f4577-801e-4ae7-84f0-0ed28e4d5d2c︡{"stdout":"1765\n"}︡{"stdout":"1765\n"}︡{"stdout":"1802\n"}︡{"done":true}
 ︠b99b53ac-1eb1-43d3-af0f-fc090e58b4c4s︠
 
+# 3
+
 def get_possible_secrets(primenum):
     return [previous_prime(primenum)..primenum-1]
 

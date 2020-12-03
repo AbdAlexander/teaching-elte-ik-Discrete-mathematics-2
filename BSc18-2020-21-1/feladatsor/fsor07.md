@@ -20,7 +20,7 @@ Interpoláljon 3-adfokú valós együtthatós polinomot, amely átmegy a `(0, 3)
 
 ## 5. feladat
 
-Ilesszünk `Z5`-beli interpolációs polinomot a `(2, 4), (1, 0), (4, 3)` pontokra.
+Illesszünk `Z5`-beli interpolációs polinomot a `(2, 4), (1, 0), (4, 3)` pontokra.
 
 ## 6. feladat
 
